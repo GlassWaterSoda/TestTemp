@@ -1,0 +1,24 @@
+{
+  "name": "gitlearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlassWaterSoda/TestTemp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlassWaterSoda/TestTemp/issues"
+  },
+  "homepage": "https://github.com/GlassWaterSoda/TestTemp#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  }
+}
